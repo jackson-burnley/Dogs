@@ -4,6 +4,8 @@
     "node_modules": true,
     ".gitignore": true,
     "package-lock.json": true,
-    "public": true
+    "public": true,
+    "package.json": true,
+    "README.md": true
   }
 }
